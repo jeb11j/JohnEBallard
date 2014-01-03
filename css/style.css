@@ -1,0 +1,17 @@
+
+#main-content {
+	background-color: black;
+}
+
+p {
+	color: lightgreen;
+}
+
+em {
+	color: white;
+}
+
+img {
+	padding: 50px;
+	margin: 100px;
+}
