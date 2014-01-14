@@ -1,6 +1,8 @@
+:root {
+	background-color: black
+}
 
 body {
-	background-color: black;
 	text-align: center;
 }
 
@@ -38,8 +40,9 @@ a:hover {
 	background-color: lightyellow;
 }
 
-
-
+h2 {
+	color: white
+}
 
 
 
