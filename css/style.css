@@ -1,5 +1,5 @@
 
-#main-content {
+body {
 	background-color: black;
 	text-align: center;
 }
@@ -16,4 +16,43 @@ em {
 img {
 	padding: 50px;
 	margin: 100px;
+	border: 25px;
+	border-color: seagreen;
 }
+
+a:visited {
+	color: lightblue;
+}
+
+a:active {
+	font-size: 26px;
+}
+
+a:hover {
+	color: white;
+	text-decoration: none;
+	background-color: tomato;
+}
+
+:focus {
+	background-color: lightyellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
